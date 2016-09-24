@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "0.0.1",
+  "description": "A starter aimed for nvd3",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodejs server.js"
+  },
+  "keywords": [
+    "nvd3"
+  ],
+  "author": "jani",
+  "license": "mit",
+  "dependencies": {
+    "express": "~4.12.3",
+    "body-parser": "~1.12.2",
+    "mongoose": "~4.0.1"
+  }
+}
